@@ -17,7 +17,7 @@ curl -fsSL https://raw.githubusercontent.com/Janvier-Irasubiza/docker-setup/main
 ## 📋 Features
 
 * Installs the latest **Docker Engine**
-* Installs the latest **Docker Compose v2**
+* Installs the latest **Docker Compose**
 * Configures Docker to start on boot
 * Adds your user to the `docker` group (no more `sudo docker`)
 * Works on **Ubuntu + WSL2**
