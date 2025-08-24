@@ -24,13 +24,6 @@ curl -fsSL https://raw.githubusercontent.com/Janvier-Irasubiza/docker-setup/main
 
 ---
 
-## 🛠️ Manual Installation (Step by Step)
-
-If you prefer manual setup, follow the guide here:
-👉 [Full Documentation](./docs/DOCKER_SETUP.md) *(optional if you want to add a separate Notion-exported doc in `/docs`)*
-
----
-
 ## 🔍 Troubleshooting
 
 ### ❌ `Could not execute systemctl` in WSL2
